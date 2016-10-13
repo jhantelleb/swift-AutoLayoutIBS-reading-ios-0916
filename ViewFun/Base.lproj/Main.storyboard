@@ -36,10 +36,10 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="4li-Bz-T2k" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="QW8-GN-FIZ"/>
-                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="RDG-W6-7es" secondAttribute="bottom" constant="20" id="bbA-ZY-Jwk"/>
-                            <constraint firstItem="RDG-W6-7es" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="rVI-eW-aSf"/>
+                            <constraint firstItem="RDG-W6-7es" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="dfj-kr-ST6"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="RDG-W6-7es" secondAttribute="bottom" constant="20" id="iYl-51-4hn"/>
                             <constraint firstItem="4li-Bz-T2k" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="8" id="smY-y6-lKm"/>
+                            <constraint firstItem="4li-Bz-T2k" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="xeb-dT-gdG"/>
                         </constraints>
                     </view>
                 </viewController>
